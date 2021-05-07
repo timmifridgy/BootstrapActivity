@@ -28,14 +28,14 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">THIS IS ME </h2>
+        <h2 class="featurette-heading">THIS IS ME <span class="text-muted">ME.</span></h2>
         <p class="lead">Thanks for stopping by~ I am currently a 2nd year, going on 3rd year Computer Science Major. I am still fairly new to programming itself, but I am not foreigner to learning languages. I speak three different languages: English, Cantonese, and Japanese.
         Learning to program is just like learning to speak another language. You learn the structure and vocabulary, and then you practice it. I also enjoy doing art, listening and playing music, and talking to my friends during my freetime.
-        Especially in a time like this, I am glad that technology has allowed us to stay connected to each other no matter how far apart we may be. Habing lots of hobbies has kept me busy, and it has been nice to revisit activities I liked doing when I was younger, such as card games and playing the piano.
+        Especially in a time like this, I am glad that technology has allowed us to stay connected to each other no matter how far apart we may be. Having lots of hobbies has kept me busy, and it has been nice to revisit activities I liked doing when I was younger, such as card games and playing the piano.
         Despite all these activities, 2020 taught me that I needed to learn how to take a break, and that it is not good to overwork yourself not matter how much you seem to be struggling. Rest is good.  </p>
       </div>
       <div class="col-md-5">
-        <img src="froggie.jpg" alt="Tiffany Tran" width="800" height="491">
+        <img src="froggie.jpg" alt="Tiffany Tran" width="600" height="368">
 
       </div>
     </div>
